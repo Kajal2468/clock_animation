@@ -2,10 +2,11 @@
     background-image: conic-gradient(from 0deg, #fff,rgb(29,36,32));
    animation: rotat 10s linear infinite ;
    motion-rotation: s;
-   
+  height: 100vh;
 
 }
 @keyframes rotat {
+ 
   
    0%{
     background-image: conic-gradient(from 0deg, #fff,rgb(29,36,32));
